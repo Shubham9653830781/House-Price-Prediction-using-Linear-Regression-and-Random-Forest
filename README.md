@@ -109,15 +109,15 @@ Real estate businesses should focus not only on property size but also on featur
 
 ### House Price Distribution
 
-![Distribution](charts/House-Price_Distribeution.png)
+![Distribution](Charts/House-Price_Distribeution.png)
 
 ### Correlation Heatmap
 
-![Heatmap](charts/Heatmap.png)
+![Heatmap](Charts/Heatmap.png)
 
 ### Impact of Main Road Access
 
-![Main Road](charts/Impact_main_road_connectivity.png)
+![Main Road](Charts/Impact_main_road_connectivity.png)
 
 ---
 
